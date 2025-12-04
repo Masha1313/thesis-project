@@ -1,0 +1,14 @@
+[project]
+name = "masha"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.10.7",
+    "notebook>=7.5.0",
+    "pip>=25.3",
+    "rdkit>=2025.9.1",
+    "seaborn>=0.13.2",
+    "zmpy3d>=0.0.2",
+]
